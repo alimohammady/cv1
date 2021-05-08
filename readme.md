@@ -23,9 +23,6 @@
 - [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-18439174/pdf/)
 - [Patchwork](https://github.com/mrezabasiri/pnu99taklif/blob/main/patchwork/mypatchwork.jpg)
 ------------------
-## فرم های ارزیابی من📊📈
-
-
 
 
 
@@ -37,7 +34,7 @@
  
 
 ------------------
-
+<!--
 ## روز و ساعت ارائه دروس با استاد رضوی🕧
 
 <table style="width:100%">
@@ -100,7 +97,7 @@
 </table>
 
 
-
+-->
 
 
 
