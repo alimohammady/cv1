@@ -8,7 +8,7 @@
 </h4>
 <hr>
 <h2 dir="rtl" style="color:red;font-family:tahoma; font-size:4em;">مشخصات من، 📝</h2>
-<p dir="rtl">نام : علی محمدی</p>
+<p dir="rtl">نام : علی محمدی کردلو</p>
 <p dir="rtl"></p>
 <p dir="rtl">شماره دانشجویی : 970016167</p>
 <hr>
