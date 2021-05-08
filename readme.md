@@ -19,9 +19,9 @@
 - [حساب گیت هاب من](https://github.com/alimohammady/cv1)
 - [PNU_3991_](https://github.com/alimohammady/cv1)
 - [فرم رزومه و سوابق کاری من](https://alimohammady.github.io/cv1/) 
-- [فرم انگیزه نامه من](https://github.com/mrezabasiri/mysopbasiri/blob/main/my%20sop.pdf)
+- [فرم انگیزه نامه من](https://github.com/alimohammady/cv1/blob/main/sop.pdf)
 - [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-18439174/pdf/)
-- [Patchwork](https://github.com/mrezabasiri/pnu99taklif/blob/main/patchwork/mypatchwork.jpg)
+
 ------------------
 
 
