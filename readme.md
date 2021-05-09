@@ -20,7 +20,7 @@
 - [PNU_3991_](https://github.com/alimohammady/cv1)
 - [فرم رزومه و سوابق کاری من](https://alimohammady.github.io/cv1/) 
 - [فرم انگیزه نامه من](https://github.com/alimohammady/cv1/blob/main/sop.pdf)
-- [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-18439174/pdf/)
+- [مدرک جاوا اسکریپ من](https://github.com/alimohammady/cv1/blob/main/Js.jpg)
 
 ------------------
 
